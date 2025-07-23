@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Profile</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-900 text-white min-h-screen px-6 py-8">
+  <div class="absolute top-6 right-6">
+    <a href="/" class="bg-red-500 hover:bg-red-600 text-white py-2 px-4 rounded-xl">Logout</a>
+  </div>
+
+  <div class="max-w-2xl mx-auto bg-gray-800 rounded-2xl p-6 shadow-xl">
+    <div class="flex flex-col items-center">
+      <img src="<%= user.photos[0].value %>" alt="Avatar" class="rounded-full w-24 h-24 shadow-lg mb-4 border-4 border-blue-500">
+      <p class="text-lg mb-2"><strong>Username:</strong> <%= user.username %></p>
+      <p class="text-lg mb-2"><strong>ID:</strong> <%= user.id %></p>
+      <p class="text-lg mb-4">
+        <strong>Profile URL:</strong>
+        <a href="<%= user.profileUrl %>" target="_blank" class="text-blue-400 hover:underline"><%= user.profileUrl %></a>
+      </p>
+
+      <div class="flex gap-4 mt-4">
+        <a href="/repos" class="bg-blue-600 hover:bg-blue-700 text-white py-2 px-4 rounded-xl">Repositories</a>
+      </div>
+    </div>
+  </div>
+</body>
+</html>
