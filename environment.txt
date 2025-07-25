@@ -1,10 +1,10 @@
-Create a .env file and ADD your 
+Create a .env file and ADD your (command nano .env) 
 
-GITHUB_CLIENT_ID=
-GITHUB_CLIENT_SECRET=
-PORT=3000
+GITHUB_CLIENT_ID = abcxxxxxxxxxxxxxxxxxxxx
+GITHUB_CLIENT_SECRET = xxxxxxxxxxxxxxxxxxxxxxxx
+PORT= 3000 or 5000 (depends on your custom port)
 
 
 After adding ID's
-
+(nano .gitignore then in text editor add .env)
 Create .gitignore file add .env to it (It will not push your GITHUB_CLIENT_ID, GITHUB_CLIENT_SECRET to github) 
