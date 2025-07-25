@@ -1,0 +1,10 @@
+Create a .env file and ADD your 
+
+GITHUB_CLIENT_ID=
+GITHUB_CLIENT_SECRET=
+PORT=3000
+
+
+After adding ID's
+
+Create .gitignore file add .env to it (It will not push your GITHUB_CLIENT_ID, GITHUB_CLIENT_SECRET to github) 
