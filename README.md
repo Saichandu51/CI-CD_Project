@@ -14,11 +14,11 @@ A web dashboard for authenticating with GitHub, visualizing repositories, and mo
 ## 📸 Dashboard Screenshots
 
 <div style="display: flex; overflow-x: auto; gap: 10px;">
-  <img src="./images/1.jpg" width="300" alt="Screenshot 1" />
+  
   <img src="./images/2.jpg" width="300" alt="Screenshot 2" />
   <img src="./images/3.jpg" width="300" alt="Screenshot 3" />
   <img src="./images/4.jpg" width="300" alt="Screenshot 4" />
-  <img src="./images/5.jpg" width="300" alt="Screenshot 5" />
+ 
 </div>
 
 ## 🛠️ Technology Stack
