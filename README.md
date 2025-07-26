@@ -65,16 +65,13 @@ A web dashboard for authenticating with GitHub, visualizing repositories, and mo
 - Store sensitive credentials in `.env` and add it to `.gitignore`.
 
 ## 🤝 Contributors :
-    - Saichandu Anukonti, Krishnaiya, Lakshya
-
-## 📄 License
-
-This project currently does not have a license. Please add one if you intend to make it open source.
+    - Saichandu Anukonti, Krishnaiya vesuwala, Lakshya S.
 
 ## 👤 Author
 
 - [Saichandu51](https://github.com/Saichandu51)
-
+- [krishnaiya-vesuwala](https://github.com/Krishnaiya-vesuwala)
+- [lakshya25110](https://github.com/lakshya25110)
 ---
 
 *For questions or improvements, open an issue or pull request!*
