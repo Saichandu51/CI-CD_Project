@@ -6,11 +6,20 @@ A web dashboard for authenticating with GitHub, visualizing repositories, and mo
 
 - **GitHub OAuth Authentication:** Secure login using GitHub accounts.
 - **Repository Viewer:** See your GitHub repositories in a dashboard.
-- ![Repository Viewer](./images/3.jpg)
 - **Workflow Runs Monitor:** View and track GitHub Actions workflow runs for each repository.
 - **Status & Conclusion Display:** Check the status and conclusion of CI/CD pipelines.
 - **Responsive UI:** Built with EJS templates and styled using TailwindCSS.
 
+
+## 📸 Dashboard Screenshots
+
+<div style="display: flex; overflow-x: auto; gap: 10px;">
+  <img src="./images/1.jpg" width="400" alt="Screenshot 1" />
+  <img src="./images/2.jpg" width="400" alt="Screenshot 2" />
+  <img src="./images/3.jpg" width="400" alt="Screenshot 3" />
+  <img src="./images/4.jpg" width="400" alt="Screenshot 4" />
+  <img src="./images/5.jpg" width="400" alt="Screenshot 5" />
+</div>
 ## 🛠️ Technology Stack
 
 - **Backend:** Node.js, Express.js
