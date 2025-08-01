@@ -83,6 +83,7 @@ A web dashboard for authenticating with GitHub, visualizing repositories, and mo
 - [Saichandu51](https://github.com/Saichandu51)
 - [krishnaiya-vesuwala](https://github.com/Krishnaiya-vesuwala)
 - [lakshya25110](https://github.com/lakshya25110)
+- [Ayush](https://github.com/ayushdwivedi0007/)
 ---
 
 *For questions or improvements, open an issue or pull request!*
